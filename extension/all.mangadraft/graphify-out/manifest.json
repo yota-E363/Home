@@ -1,0 +1,80 @@
+{
+  "build.gradle.kts": {
+    "mtime": 1793947741.3645108,
+    "seen": 1793948597.9127672,
+    "ast_hash": "0105fa016667dcc88c1145e1467f02e4",
+    "semantic_hash": ""
+  },
+  "src/eu/kanade/tachiyomi/extension/all/mangadraft/Filters.kt": {
+    "mtime": 1793947748.7105112,
+    "seen": 1793948597.9127748,
+    "ast_hash": "adefd38eb02cde494bd6dc5757830c5a",
+    "semantic_hash": ""
+  },
+  "src/eu/kanade/tachiyomi/extension/all/mangadraft/MangaDraft.kt": {
+    "mtime": 1793948341.268541,
+    "seen": 1793948597.9127784,
+    "ast_hash": "db4a1d6589a6efb0dc37c6d4332e864a",
+    "semantic_hash": ""
+  },
+  "src/eu/kanade/tachiyomi/extension/all/mangadraft/dto/MangaDraftCatalogRequestDto.kt": {
+    "mtime": 1793947748.712511,
+    "seen": 1793948597.9127808,
+    "ast_hash": "27564c3574b42a673a7f8235c4363dc2",
+    "semantic_hash": ""
+  },
+  "src/eu/kanade/tachiyomi/extension/all/mangadraft/dto/MangaDraftPagesRequestDto.kt": {
+    "mtime": 1793947748.712511,
+    "seen": 1793948597.912783,
+    "ast_hash": "ecca22944b3776625c39b37b36296c38",
+    "semantic_hash": ""
+  },
+  "src/eu/kanade/tachiyomi/extension/all/mangadraft/dto/MangaDraftProjectDto.kt": {
+    "mtime": 1793947748.712511,
+    "seen": 1793948597.9127843,
+    "ast_hash": "fcc633b189263e59c1621993d9656fe6",
+    "semantic_hash": ""
+  },
+  "src/eu/kanade/tachiyomi/extension/all/mangadraft/dto/MangaDraftSearchDto.kt": {
+    "mtime": 1793948330.9765406,
+    "seen": 1793948597.9127862,
+    "ast_hash": "bf361d63a4f0f6a113cfa104ef5bd792",
+    "semantic_hash": ""
+  },
+  "SETUP.md": {
+    "mtime": 1793947702.5835087,
+    "seen": 1793948597.9127877,
+    "ast_hash": "3358c006b79eeba7e630a527f5c65868",
+    "semantic_hash": ""
+  },
+  "res/mipmap-hdpi/ic_launcher.png": {
+    "mtime": 1793947702.577509,
+    "seen": 1793948597.9127893,
+    "ast_hash": "84cdc83834e4bf98482c8e5c5ec41270",
+    "semantic_hash": ""
+  },
+  "res/mipmap-mdpi/ic_launcher.png": {
+    "mtime": 1793947702.5765088,
+    "seen": 1793948597.9127908,
+    "ast_hash": "a0ec25d6dd0603f495ee9e73c3605102",
+    "semantic_hash": ""
+  },
+  "res/mipmap-xhdpi/ic_launcher.png": {
+    "mtime": 1793947702.577509,
+    "seen": 1793948597.9127922,
+    "ast_hash": "d3d055cb499522aa5d4f674e36e40fe2",
+    "semantic_hash": ""
+  },
+  "res/mipmap-xxhdpi/ic_launcher.png": {
+    "mtime": 1793947702.5785089,
+    "seen": 1793948597.9127944,
+    "ast_hash": "638224fcafec14367e1ac5250825166b",
+    "semantic_hash": ""
+  },
+  "res/mipmap-xxxhdpi/ic_launcher.png": {
+    "mtime": 1793947702.5795088,
+    "seen": 1793948597.9127963,
+    "ast_hash": "f29ea1895dcd03e4a7c6404435f63a1b",
+    "semantic_hash": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": 8001,
+  "date": "2026-11-10T12:00:00",
+  "modified": "2026-11-11T12:00:00",
+  "author": 1,
+  "slug": "fixture-publication",
+  "link": "https://saradahentai.com/fixture-publication/",
+  "title": {"rendered": "Fixture &amp; Publication"},
+  "excerpt": {"rendered": "<p>Editorial excerpt.</p>"},
+  "content": {"rendered": "<p>Body.</p>"},
+  "featured_media": 8100,
+  "categories": [4],
+  "tags": [10, 11, 12],
+  "_embedded": {
+    "wp:term": [[
+      {"id": 4, "taxonomy": "category", "name": "Illustration"},
+      {"id": 10, "taxonomy": "post_tag", "name": "Ada (Artist)"},
+      {"id": 11, "taxonomy": "post_tag", "name": "Character X (Character)"},
+      {"id": 12, "taxonomy": "post_tag", "name": "uncertain tag"}
+    ]],
+    "wp:featuredmedia": [{
+      "id": 8100,
+      "source_url": "https://saradahentai.com/wp-content/uploads/cover.jpg",
+      "alt_text": "Cover",
+      "mime_type": "image/jpeg",
+      "media_details": {"width": 600, "height": 900, "sizes": {"thumbnail": {"source_url": "https://saradahentai.com/wp-content/uploads/cover-150.jpg"}}}
+    }]
+  }
+}

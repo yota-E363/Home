@@ -1,0 +1,22 @@
+[   16109ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:8081/node_modules/expo-router/entry.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=src%2Fapp&unstable_transformProfile=hermes-stable:68504
+[   16198ms] [LOG] Running application "main" with appParams:
+ {rootTag: #root, hydrate: undefined} 
+Development-level warnings: ON.
+Performance optimizations: OFF. @ http://localhost:8081/node_modules/expo-router/entry.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=src%2Fapp&unstable_transformProfile=hermes-stable:68504
+[   16544ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:8081/assets/fonts/Inter-Regular.woff2:0
+[   47537ms] Unable to resolve module ../../fonts/Inter-Regular.woff2 from /workspaces/Home/dev/Nexa-OS/src/app/_layout.tsx: 
+
+None of these files exist:
+  * Inter-Regular.woff2
+  * fonts/Inter-Regular.woff2
+   8 | export default function RootLayout() {
+   9 |   const [fontsLoaded] = useFonts({
+> 10 |     Inter: require("../../fonts/Inter-Regular.woff2"),
+     |                     ^
+  11 |     InterMedium: require("../../fonts/Inter-Medium.woff2"),
+  12 |     InterSemiBold: require("../../fonts/Inter-SemiBold.woff2"),
+  13 |     InterBold: require("../../fonts/Inter-Bold.woff2"),
+[   49180ms] [WARNING] Disconnected from Metro (1006)
+To reconnect:
+- Ensure that Metro is running and available on the same network
+- Reload this app (will trigger further help if Metro cannot be connected to) @ http://localhost:8081/node_modules/expo-router/entry.bundle?platform=web&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.routerRoot=src%2Fapp&unstable_transformProfile=hermes-stable:68504

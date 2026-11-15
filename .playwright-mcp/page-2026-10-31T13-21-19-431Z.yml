@@ -1,0 +1,27 @@
+- generic [ref=f4e8]:
+  - generic [ref=f4e9]:
+    - button "Ouvrir le menu" [ref=f4e10] [cursor=pointer]
+    - generic [ref=f4e12]: "N"
+    - generic [ref=f4e14]: Nexa OS
+  - generic [ref=f4e17]:
+    - generic [ref=f4e18]:
+      - generic [ref=f4e19]: MON ESPACE / AUJOURD'HUI
+      - generic [ref=f4e20]: Bonjour, Alex.
+      - generic [ref=f4e21]: Un espace calme pour garder le cap sur ce qui compte.
+    - generic [ref=f4e22]:
+      - generic [ref=f4e27]: Ton prochain bon mouvement
+      - generic [ref=f4e28]: Commence par une petite action. La constance fera le reste.
+      - button "Démarrer ma journée" [ref=f4e29] [cursor=pointer]
+    - generic [ref=f4e31]:
+      - generic [ref=f4e32]:
+        - generic [ref=f4e33]: Vue d’ensemble
+        - generic [ref=f4e34]: Mise à jour à l'instant
+      - generic [ref=f4e35]:
+        - generic [ref=f4e36]:
+          - generic [ref=f4e40]: TÂCHES TERMINÉES
+          - generic [ref=f4e41]: "12"
+          - generic [ref=f4e42]: +3 cette semaine
+        - generic [ref=f4e43]:
+          - generic [ref=f4e46]: PROCHAINE ÉTAPE
+          - generic [ref=f4e47]: Revoir les priorités
+          - generic [ref=f4e48]: Environ 15 min

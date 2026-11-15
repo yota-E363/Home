@@ -1,0 +1,3 @@
+[crawler]
+max_pages = 50
+respect_robots = true

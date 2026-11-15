@@ -1,0 +1,29 @@
+{
+  "popular": {
+    "ok": true,
+    "count": 24
+  },
+  "latest": {
+    "ok": true,
+    "count": 24
+  },
+  "search": {
+    "ok": true,
+    "count": 24,
+    "contains_test_title": true
+  },
+  "detail": {
+    "ok": true,
+    "title": "Sister Breeder Episode 5",
+    "player_host": "nhplayer.com"
+  },
+  "episodes": {
+    "ok": true,
+    "count": 1,
+    "episode_number": "5"
+  },
+  "videos": {
+    "ok": false,
+    "reason": "nhplayer iframe requires anti-bot verification; no direct media is tested or bypassed"
+  }
+}

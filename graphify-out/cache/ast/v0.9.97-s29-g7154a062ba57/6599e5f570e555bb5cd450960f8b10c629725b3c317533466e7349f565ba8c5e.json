@@ -1,0 +1,1 @@
+{"nodes": [{"id": "$graphify-root$_extension_aniyomi_build_buildsrc_src_main_kotlin_lib_kotlin_gradle_kts", "label": "lib-kotlin.gradle.kts", "file_type": "code", "source_file": "extension/aniyomi-build/buildSrc/src/main/kotlin/lib-kotlin.gradle.kts", "source_location": "L1"}], "edges": [], "raw_calls": []}

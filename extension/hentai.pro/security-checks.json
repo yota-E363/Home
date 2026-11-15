@@ -1,0 +1,13 @@
+{
+  "homepage_status": 200,
+  "duplicate_x_frame_options": true,
+  "duplicate_referrer_policy": true,
+  "hsts_present": false,
+  "unsafe_inline_script": true,
+  "unsafe_inline_style": true,
+  "frame_src_present": true,
+  "player_status": 200,
+  "player_session_cookie_secure": false,
+  "player_session_cookie_httponly": false,
+  "player_session_cookie_samesite": false
+}

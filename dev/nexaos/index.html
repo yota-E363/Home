@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Nexaos Flight</title>
+<link rel="stylesheet" href="style.css" />
+<script src="https://unpkg.com/gsap@3.12.5/dist/gsap.min.js"></script>
+<script type="importmap">
+{ "imports": { "three": "https://unpkg.com/three@0.160.0/build/three.module.js" } }
+</script>
+</head>
+<body>
+<div id="hud">
+  <div id="score">0</div>
+  <div id="best">Record : 0</div>
+  <div id="hint">ESPACE / CLIC pour voler</div>
+</div>
+
+<div id="menu">
+  <h1>NEXAOS<span>FLIGHT</span></h1>
+  <p>Appuie pour faire décoller l'avion.<br/>Esquive les montagnes, évite les nuages... turbulences garanties.</p>
+  <button id="btnPlay">DÉCOLLER</button>
+</div>
+
+<div id="gameover">
+  <h2>CRASH !</h2>
+  <div class="stats">
+    <div><span>Score</span><b id="finalScore">0</b></div>
+    <div><span>Record</span><b id="finalBest">0</b></div>
+  </div>
+  <button id="btnRestart">REJOUER</button>
+</div>
+
+<script type="module" src="game.js"></script>
+</body>
+</html>

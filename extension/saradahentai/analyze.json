@@ -1,0 +1,17 @@
+{
+  "url": "https://saradahentai.com/",
+  "type": "unknown",
+  "health": "cloudflare_blocked",
+  "name": "Just a moment...",
+  "language": "en",
+  "template": "http_source",
+  "cloudflare": true,
+  "confidence": 0.0,
+  "http_status": 403,
+  "response_ms": 42,
+  "notes": [
+    "Site is behind Cloudflare \u2014 extension will need CloudflareInterceptor",
+    "Could not identify CMS \u2014 use http_source template and inspect manually"
+  ],
+  "covered_by": []
+}

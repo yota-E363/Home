@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "dark-mode": {
+      "version": "2.0.1",
+      "installedAt": "2026-11-11T21:54:34.401Z",
+      "platform": "claude-code"
+    }
+  }
+}
